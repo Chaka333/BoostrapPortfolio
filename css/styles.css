@@ -4,27 +4,18 @@ background-color: black; }
 
 h1, h2, h3 {
   font-family: "Lobster", cursive; 
-  color: white;
+  color:white;
 }
 
-h2 {
-  color: white; }
-
-header h1 {
+h2, p{
   color: white;
-  text-align: center;
-}
-
-p {
-  color: white;
-}
+   }
 
 header h2 {
-  color: red; 
-text-align: center;}
+  color: white; }
 
 .site-footer {
-  background-image: view.jpg;
+  background-image: linear-gradient(#CEC8FF, white);
   padding: 20px 0; }
 
 .jumbotron {
@@ -34,9 +25,7 @@ text-align: center;}
   color: white; }
 
 .navbar {
-  background-color: #901CAD; 
-  text-align: center;
-}
+  background-color: #901CAD; }
 
 .carousel {
   border: solid #5637dd; }
