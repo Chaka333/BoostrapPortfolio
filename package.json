@@ -2,7 +2,7 @@
   "name": "author",
   "version": "1.0.0",
   "description": "Texas resturant fine dinning",
-  "main": "indexportfolio.html",
+  "main": "index.html",
   "scripts": {
     "lite": "lite-server",
     "scss": "node-sass -o css/ css/",
