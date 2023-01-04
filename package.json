@@ -11,11 +11,9 @@
     "watch:scss": "onchange \"css/*.scss\" -- npm run scss",
     "watch:all": "parallelshell \"npm run watch:scss\" \"npm run lite\""
   },
-
   "repository": {
     "type": "git"
   },
-
   "author": "",
   "license": "ISC",
   "devDependencies": {
@@ -23,7 +21,6 @@
     "node-sass": "^8.0.0",
     "parallelshell": "3.0.1"
   },
-
   "dependencies": {
     "bootstrap": "^5.2.3",
     "jquery": "^3.6.3",
